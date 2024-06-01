@@ -1,0 +1,22 @@
+{
+  "name": "transactioncleaner",
+  "version": "1.0.0",
+  "description": "-",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EhabLama/transactionCleaner.git"
+  },
+  "author": "Ehab Alama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EhabLama/transactionCleaner/issues"
+  },
+  "homepage": "https://github.com/EhabLama/transactionCleaner#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
